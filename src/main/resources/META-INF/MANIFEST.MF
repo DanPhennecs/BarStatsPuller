@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: Parser
+Class-Path: junit-4.10.jar json-simple-1.1.1.jar commons-logging-1.0.4.j
+ ar commons-httpclient-3.1.jar json-20210307.jar commons-codec-1.2.jar h
+ ttpcore-4.4.14.jar hamcrest-core-1.1.jar
+
